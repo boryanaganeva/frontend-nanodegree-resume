@@ -1,3 +1,3 @@
 /*
-$("#main").append(["Boryana Ganeva"]);
+$("#main").append("Boryana Ganeva");
  */
